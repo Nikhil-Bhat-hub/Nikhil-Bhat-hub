@@ -9,7 +9,7 @@
       srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:E6FFFA,50:3EB489,100:367588&amp;height=220&amp;section=header&amp;text=Nikhil%20Bhat&amp;fontSize=54&amp;fontColor=0D3B45&amp;animation=fadeIn"
     />
     <img
-      src="C:\Users\Nikhil\Downloads\github-header-banner.png"
+      src="github-header-banner.png"
       alt="Nikhil Bhat profile banner"
       width="100%"
     />
