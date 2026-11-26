@@ -116,7 +116,7 @@
   </picture>
 </p>
 
-<p align="center"><em>The contribution snake is generated daily by this repository's GitHub Actions workflow.</em></p>
+<p align="center"><em></em></p>
 
 ---
 
