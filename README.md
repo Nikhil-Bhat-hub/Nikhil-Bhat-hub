@@ -2,7 +2,7 @@
   <img src="./github-header-banner.png" alt="Hey! I am Nikhil — Fullstack Developer" width="100%">
 </p>
 
-<h1 align="center">Hey there, I'm Nikhil Bhat</h1>
+<h1 align="center"></h1>
 
 <p align="center">
   <img
