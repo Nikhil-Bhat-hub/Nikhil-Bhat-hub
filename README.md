@@ -115,7 +115,7 @@
   <a href="https://www.instagram.com/_nikhil_bhat_?bqrl=MTF2ZmZoMG16NG84cA==">
     <img src="https://img.shields.io/badge/Instagram-Follow-3EB489?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Follow on Instagram" />
   </a>
-  <a href="nikhilbhat002@gmail.com">
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTJnnfnhmGxkpXRgFvgXJlvjgmmGWwkwtmjDzNGcLcqfhvXCQKjzjmFlGpzGRxjcQVqrrL">
     <img src="https://img.shields.io/badge/Email-Say%20Hello-008080?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Nikhil" />
   </a>
 </p>
