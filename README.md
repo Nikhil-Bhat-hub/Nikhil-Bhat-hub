@@ -102,13 +102,15 @@
 
 <h2 align="center">Contribution Snake</h2>
 
+<!-- Generated and published by .github/workflows/snake.yml. -->
+
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nikhil-Bhat-hub/Nikhil-Bhat-hub/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nikhil-Bhat-hub/Nikhil-Bhat-hub/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nikhil-Bhat-hub/github-profile/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nikhil-Bhat-hub/github-profile/output/github-contribution-grid-snake.svg" />
     <img
       alt="A snake animating across Nikhil's GitHub contribution grid"
-      src="https://raw.githubusercontent.com/Nikhil-Bhat-hub/Nikhil-Bhat-hub/output/github-contribution-grid-snake.svg"
+      src="https://raw.githubusercontent.com/Nikhil-Bhat-hub/github-profile/output/github-contribution-grid-snake.svg"
       width="100%"
     />
   </picture>
