@@ -1,15 +1,5 @@
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,50:164E63,100:008080&amp;height=220&amp;section=header&amp;text=Nikhil%20Bhat&amp;fontSize=54&amp;fontColor=E6FFFA&amp;animation=fadeIn"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:E6FFFA,50:3EB489,100:367588&amp;height=220&amp;section=header&amp;text=Nikhil%20Bhat&amp;fontSize=54&amp;fontColor=0D3B45&amp;animation=fadeIn"
-    />
-<img src="github-header-banner.png" alt="Hey! I am Nikhil — Fullstack Developer" width="100%">
-  </picture>
+  <img src="./github-header-banner.png" alt="Hey! I am Nikhil — Fullstack Developer" width="100%">
 </p>
 
 <h1 align="center">Hey there, I'm Nikhil Bhat</h1>
