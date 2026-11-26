@@ -51,10 +51,10 @@
         I'm always happy to connect with people who enjoy making useful things.
       </p>
       <ul>
-        <li>🔭 Currently exploring: <strong>[your focus or current project]</strong></li>
-        <li>🌱 Learning: <strong>[a technology or skill]</strong></li>
-        <li>🤝 Open to: <strong>[collaborations or opportunities]</strong></li>
-        <li>📍 Based in: <strong>[your location]</strong></li>
+<li>🔭 Currently exploring: <strong>AI tools and building useful projects with Codex</strong></li>
+<li>🌱 Learning: <strong>AI-assisted coding and software development</strong></li>
+<li>🤝 Open to: <strong>collaborating on practical tech and AI projects</strong></li>
+<li>📍 Based in: <strong>[Bengaluru, India]</strong></li>
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
